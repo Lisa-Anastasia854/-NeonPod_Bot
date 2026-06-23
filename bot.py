@@ -24,7 +24,7 @@ from telegram.ext import (
 
 TOKEN = os.getenv(
     "TOKEN",
-    "8923490745:AAEPaZgP9MeFAKUVyrhHZ0jRIPI9mw_yCQ0"
+    "8923490745:AAHze0oeNWlij08vDb8Y2gpOxFKGyBZUC1E"
 )
 CHAT_ID = -1003995302468
 
