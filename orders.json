@@ -1,0 +1,63 @@
+{
+  "1307060966": [
+    {
+      "message_id": 174,
+      "slot": "12:15",
+      "name": "Ааааа",
+      "username": "alinyysik"
+    }
+  ],
+  "8547235425": [
+    {
+      "message_id": 177,
+      "slot": "12:00",
+      "name": "Віталіна",
+      "username": "vitalinaaaaaa_aaa"
+    }
+  ],
+  "7026314822": [
+    {
+      "message_id": 185,
+      "slot": "13:30",
+      "name": "Венніамін",
+      "username": "diselko"
+    }
+  ],
+  "5901039027": [
+    {
+      "message_id": 189,
+      "slot": "00:00",
+      "name": "Лиса",
+      "username": "lisa_xxx",
+      "customer_id": 5901039027
+    },
+    {
+      "message_id": 192,
+      "slot": "12:00",
+      "name": "Анастасія",
+      "username": "lisa_xxx",
+      "customer_id": 5901039027
+    },
+    {
+      "message_id": 193,
+      "slot": "12:15",
+      "name": "Анастасія",
+      "username": "lisa_xxx",
+      "customer_id": 5901039027
+    },
+    {
+      "message_id": 194,
+      "slot": "12:00",
+      "name": "🛒 Замовити",
+      "username": "lisa_xxx",
+      "customer_id": 5901039027
+    },
+    {
+      "message_id": 197,
+      "slot": "12:00",
+      "name": "Анастасія",
+      "username": "lisa_xxx",
+      "customer_id": 5901039027
+    }
+  ]
+}
